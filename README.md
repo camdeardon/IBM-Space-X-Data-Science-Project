@@ -1,2 +1,2 @@
 # IBM-Space-X-Data-Science-Project
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Fanimationvisarts.com%2Fibm-logo-meaning-history-evolution%2F&psig=AOvVaw2GGDOrSs-vujcKbLRmsRMX&ust=1637820657939000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLiv2cersPQCFQAAAAAdAAAAABAN'>
+<img alt="File:IBM logo.svg" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/800px-IBM_logo.svg.png" decoding="async" width="800" height="320" srcset="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1200px-IBM_logo.svg.png 1.5x, https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/IBM_logo.svg/1600px-IBM_logo.svg.png 2x" data-file-width="1000" data-file-height="400">
