@@ -9,6 +9,6 @@ experience using machine learning algorithms to solve a real business problem. T
   data, and their Falcon 9 rocket. It explores the launch locations, the success rate of both launching and landing and <br>
   allows us to analyse the reusability of the rockets. </p>
 
-<p> If you are working on your own version of the capstone project, I hope what I have here is of some use. There are many repos on <br>
-  Github that have made much better presentations than mine but our code and insight is fairly similar. If you are stuck and need some <br>
-  inspiration, I hope the resources you find here will help. Good luck with the course. </p>
+<p> If you are working on your own version of the capstone project, I hope what I have here is of some use. There are many <br> 
+  repos on Github that have made much better presentations than mine but our code and insight is fairly similar. If you are <br>
+  stuck and need some inspiration, I hope the resources you find here will help. Good luck with the course. </p>
